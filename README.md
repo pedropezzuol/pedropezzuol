@@ -20,7 +20,7 @@
 </div>
 <hr>
 <div>
-   <a href = "mailto:pedropezzuol0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"                    target="_blank"></a>
+   <a href = "mailto:pedropezzuol0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 <hr>
   ![Snake animation](https://github.com/pedropezzuol/pedropezzuol/blob/output/github-contribution-grid-snake.svg)
