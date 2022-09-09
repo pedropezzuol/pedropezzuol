@@ -3,7 +3,7 @@
 
 • 💻 Estudante <br>
 • 📝 Estou aprendendo desenvolvimento web <br>
-• 📚 Html, css, javascript <br>
+• 📚 HTML, CSS, JAVASCRIPT <br>
 • 💖 Estudante apaixonado por programação <br>
 <hr>
 
