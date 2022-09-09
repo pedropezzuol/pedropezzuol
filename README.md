@@ -8,9 +8,9 @@
 <hr>
 
 <div align="left">
-  <a href="https://github.com/pedropezzuol">
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=pedropezzuol&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropezzuol&layout=compact&langs_count=5&theme=gruvbox"/>
+  <a href="https://github.com/PedroPezzuol">
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPezzuol&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPezzuol&layout=compact&langs_count=5&theme=gruvbox"/>
 </div>
   
 <div style="display: inline_block"><br>
