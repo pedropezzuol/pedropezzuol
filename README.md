@@ -24,4 +24,4 @@
 </div>
 <hr>
  
-![Snake animation](https://github.com/pedropezzuol/PedroPezzuol/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/PedroPezzuol/PedroPezzuol/blob/output/github-contribution-grid-snake.svg)
