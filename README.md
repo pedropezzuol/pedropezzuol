@@ -10,7 +10,7 @@
 <div align="left">
   <a href="https://github.com/pedropezzuol">
   <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=pedropezzuol&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropezzuol&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropezzuol&layout=compact&langs_count=5&theme=gruvbox"/>
 </div>
   
 <div style="display: inline_block"><br>
