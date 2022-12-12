@@ -4,7 +4,6 @@
 • 💻 Estudante <br>
 • 📝 Estou aprendendo desenvolvimento web <br>
 • 📚 HTML, CSS, JavaScript <br>
-• 💖 Estudante apaixonado por programação <br>
 <hr>
 
 <div align="left">
